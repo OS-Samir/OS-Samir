@@ -12,11 +12,10 @@
 
 
 ### 😂 Random Dev Meme
-<!-- <img src='https://developers.giphy.com/docs/api/' style="height: 400px;"/> -->
+<img src='https://developers.giphy.com/docs/api/' style="height: 400px;"/> 
 
-![Meme API](https://github.com/D3vd/Meme_Api)
 
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
