@@ -12,7 +12,8 @@
 
 
 ### 😂 Random Dev Meme
-<img src='https://developers.giphy.com/docs/api/' style="height: 400px;"/> 
+<!-- <img src='https://developers.giphy.com/docs/api/' style="height: 400px;"/> -->
+![Random Dev Meme](https://example.com/your-image.jpg)
 
 
 
