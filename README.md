@@ -11,11 +11,6 @@
 
 
 
-### 😂 Random Dev Meme
-<!-- <img src='https://developers.giphy.com/docs/api/' style="height: 400px;"/> -->
-![Random Dev Meme](https://example.com/your-image.jpg)
-
-![Random Dev Meme](https://preview.redd.it/your-image-id.jpg?width=400&auto=webp&s=your-image-id-hash)
 
 
 
